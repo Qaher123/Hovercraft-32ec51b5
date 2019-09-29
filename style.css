@@ -1,0 +1,33 @@
+tr
+th
+{
+	border : 1px solid;
+	font-size: 150%;
+	padding: 25px
+}
+.trueee
+{
+	background-color: orange;
+	cursor: grab;
+
+}
+.notes
+{
+	background-color:  magenta;
+	cursor: grab;
+}
+.rofl
+{
+	background-color: skyblue;
+	cursor: grab;
+}
+.hello
+{
+	background-color: yellow;
+	cursor: grab;
+}
+.darkness
+{
+	background-color: darkgrey;
+	cursor: grab;
+}
